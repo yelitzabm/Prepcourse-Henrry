@@ -1,2 +1,1 @@
-# Prepcourse-Henrry
-Este es un repositorio de prueba del modulo 2 del prepcourso de Henrry
+Este proyecto es una prueba de como crear un repositorio y clonarlo desde git hasb a mi escritorio local
